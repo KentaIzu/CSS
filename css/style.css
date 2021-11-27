@@ -1,6 +1,6 @@
 body {
   max-width: 1500px;
-  width: 100%;
+  width: 1000px;
 }
 .header {
   color: #00277e;
@@ -16,7 +16,7 @@ a {
 }
 nav {
   position: relative;
-  left: 1150px;
+  left: 835px;
   font-weight: bold;
 }
 ul {
@@ -42,7 +42,7 @@ img {
 }
 .absolute {
   position: absolute;
-  top: 53%;
+  top: 35%;
   font-size: 600%;
   font-family: "Noto Sans JP", sans-serif;
   font-weight: lighter;
